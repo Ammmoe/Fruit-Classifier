@@ -1,0 +1,21 @@
+Overall Accuracy: 0.93333
+Apple Accuracy: 0.94737
+Banana Accuracy: 0.88889
+Orange Accuracy: 1.00000
+Mixed Accuracy: 0.80000
+
+Epoch 1: Train Loss=0.90297, Train Acc=0.65133, Val Loss=1.15837, Val Acc=0.68254
+Epoch 2: Train Loss=0.64324, Train Acc=0.79469, Val Loss=0.73121, Val Acc=0.80952
+Epoch 3: Train Loss=0.56014, Train Acc=0.84602, Val Loss=0.77997, Val Acc=0.66667
+Epoch 4: Train Loss=0.47641, Train Acc=0.86372, Val Loss=0.61236, Val Acc=0.74603
+Epoch 5: Train Loss=0.46187, Train Acc=0.85664, Val Loss=0.54427, Val Acc=0.77778
+Epoch 6: Train Loss=0.44528, Train Acc=0.87080, Val Loss=0.44241, Val Acc=0.87302
+Epoch 7: Train Loss=0.39199, Train Acc=0.88850, Val Loss=0.50028, Val Acc=0.77778
+Epoch 8: Train Loss=0.36356, Train Acc=0.90619, Val Loss=0.43475, Val Acc=0.80952
+Epoch 9: Train Loss=0.30293, Train Acc=0.92035, Val Loss=0.40043, Val Acc=0.88889
+Epoch 10: Train Loss=0.30315, Train Acc=0.91504, Val Loss=0.50848, Val Acc=0.76190
+Epoch 11: Train Loss=0.27838, Train Acc=0.92920, Val Loss=0.29023, Val Acc=0.90476
+Epoch 12: Train Loss=0.28436, Train Acc=0.92212, Val Loss=0.50190, Val Acc=0.80952
+Epoch 13: Train Loss=0.28019, Train Acc=0.91327, Val Loss=0.37404, Val Acc=0.88889
+Epoch 14: Train Loss=0.27791, Train Acc=0.91858, Val Loss=0.29117, Val Acc=0.88889
+Epoch 15: Train Loss=0.26447, Train Acc=0.92389, Val Loss=0.31508, Val Acc=0.92063
