@@ -32,7 +32,7 @@ To improve model accuracy, the following strategies were applied:
 
 All training experiments and model performance details are documented in the spreadsheet below:
 
-📄 [Model Training Log](https://nusu-my.sharepoint.com/:x:/r/personal/e1505293_u_nus_edu/Documents/(ML)%20CA%20Training%20Document.xlsx?d=wd538bb3d4e0e441791b118d9f0ad23f7&csf=1&web=1&e=OtnOwu)
+📄 [Model Training Log](https://nusu-my.sharepoint.com/:x:/g/personal/e1505293_u_nus_edu/ET27ONUOThdEkbEY2fCtI_cBndHgL46WP4fQZYzunj0biA?e=LJiliF)
 
 ---
 
